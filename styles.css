@@ -118,7 +118,6 @@ button:active {
 }
 
 @media (max-width: 768px) {
-    /* Container adjustment for smaller screens */
     .container {
         padding: 20px;
         width: 90%;
